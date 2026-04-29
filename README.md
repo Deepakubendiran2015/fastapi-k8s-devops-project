@@ -1,8 +1,8 @@
 # fastapi-k8s-devops-project
 
-# 🚀 FastAPI Kubernetes DevOps Project
+#  FastAPI Kubernetes DevOps Project
 
-## 📌 Overview
+##  Overview
 This project demonstrates building and containerizing a REST API using FastAPI and Docker.
 
 ## 🧱 Tech Stack
