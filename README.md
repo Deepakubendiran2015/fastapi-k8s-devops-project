@@ -21,3 +21,9 @@ This project demonstrates building and containerizing a REST API using FastAPI a
 ```bash
 docker build -t fastapi-k8s-app .
 docker run -p 8000:8000 fastapi-k8s-app
+
+## 📸 API Preview
+![API Screenshot](screenshot.png)
+
+## 🐳 Docker Container Running
+![Docker Screenshot](docker.png)
